@@ -1,0 +1,15 @@
+//RESPONSIVIDADE
+@mixin m($size) {
+    @media (max-width: $size) {
+      @content;
+    }
+  }
+//CORES
+
+$cinza: rgba(0, 0, 0, 0.918);
+
+$branco: #fff;
+$branco2: #ffffffa8;
+
+$preto : #000;
+$preto2 : #3c3b41;
