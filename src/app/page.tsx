@@ -1,6 +1,3 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-import {Menu} from "./components/{parts}/menu";
 import {Sobre} from "./components/{parts}/sobre";
 import {Projetos} from "./components/{parts}/projetos";
 
