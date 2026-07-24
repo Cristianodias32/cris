@@ -94,7 +94,7 @@ export function Menu() {
         </ul>
 
         <div className="ano-desenvolvimento">
-          <span>© 2025</span>
+          <span>© 2026</span>
         </div>
       </div>
 
